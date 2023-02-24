@@ -15,14 +15,12 @@ body {
     box-sizing: border-box;
     border: 30px;
     color: black;
-    display: inline-block;
     display: grid;
-    border: 2px solid black;
     justify-content: center;
 }
 
 /* acá toda la tipografía */
-p {
+  p {
     color: whitesmoke;
     font-size: 25px;
     font-family: "Patua One";
